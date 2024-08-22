@@ -1,0 +1,124 @@
+Caso de Teste 1: Soma de dois números positivos
+Passos:
+
+Abra a calculadora.
+Insira o número 8.
+Coloque o símbolo de mais +.
+Insira o número 2.
+Pressione o botão de igual =.
+Resultado Esperado:
+
+O resultado exibido na calculadora deve ser 10.
+_________________________________________________
+Caso de Teste 2: subtração de dois números positivos
+Passos:
+
+Abra a calculadora.
+Insira o número 8.
+Coloque o símbolo de mais -.
+Insira o número 2.
+Pressione o botão de igual =.
+Resultado Esperado:
+
+O resultado exibido na calculadora deve ser 6.
+____________________________________________________
+Caso de Teste 3: divisão de dois números positivos
+Passos:
+
+Abra a calculadora.
+Insira o número 8.
+Coloque o símbolo de mais /.
+Insira o número 2.
+Pressione o botão de igual =.
+Resultado Esperado:
+
+O resultado exibido na calculadora deve ser 4.
+____________________________________________________
+Caso de Teste 4: multiplicação de dois números positivos
+Passos:
+
+Abra a calculadora.
+Insira o número 8.
+Coloque o símbolo de mais x.
+Insira o número 2.
+Pressione o botão de igual =.
+Resultado Esperado:
+
+O resultado exibido na calculadora deve ser 16.
+____________________________________________________
+Caso de Teste 5: Soma de um número decimal e um inteiro
+Passos:
+
+Abra a calculadora.
+Insira o número 8.5.
+Coloque o símbolo de mais +.
+Insira o número 2.
+Pressione o botão de igual =.
+Resultado Esperado:
+
+O resultado exibido na calculadora deve ser 10.5.
+_____________________________________________________
+Caso de Teste 6: Subtração envolvendo números negativos
+Passos:
+
+Abra a calculadora.
+Insira o número -5.
+Coloque o símbolo de menos -.
+Insira o número -3.
+Pressione o botão de igual =.
+Resultado Esperado:
+
+O resultado exibido na calculadora deve ser -2.
+_____________________________________________________
+Caso de Teste 7: Multiplicação de número positivo por negativo
+Passos:
+
+Abra a calculadora.
+Insira o número 6.
+Coloque o símbolo de multiplicação *.
+Insira o número -4.
+Pressione o botão de igual =.
+Resultado Esperado:
+
+O resultado exibido na calculadora deve ser -24.
+_____________________________________________________
+Caso de Teste 8: Subtração de zero por um número positivo
+Passos:
+
+Abra a calculadora.
+Insira o número 0.
+Coloque o símbolo de menos -.
+Insira o número 9.
+Pressione o botão de igual =.
+Resultado Esperado:
+
+O resultado exibido na calculadora deve ser -9.
+_____________________________________________________
+Caso de Teste 9: Multiplicação de dois números decimais
+Passos:
+
+Abra a calculadora.
+Insira o número 2.5.
+Coloque o símbolo de multiplicação *.
+Insira o número 4.2.
+Pressione o botão de igual =.
+Resultado Esperado:
+
+O resultado exibido na calculadora deve ser 10.5.
+_____________________________________________________
+
+Caso de Teste 10: Divisão de número negativo por um número positivo
+Passos:
+
+Abra a calculadora.
+Insira o número -18.
+Coloque o símbolo de divisão /.
+Insira o número 6.
+Pressione o botão de igual =.
+
+Resultado Esperado:
+O resultado exibido na calculadora deve ser 10.5.
+____________________________________________________
+
+
+
