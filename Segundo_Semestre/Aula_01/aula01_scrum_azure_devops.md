@@ -18,7 +18,7 @@ No caso de um **e-commerce**, podemos ter:
   - **Features**: Cartão de Crédito, Boleto, PIX  
     - **User Story**: "Como usuário, quero inserir os dados do cartão para efetuar a compra"
 
-![Backlog no Azure DevOps](gestao_de_projetos/backlog_azure.png)
+![Backlog no Azure DevOps](imagens/backlog_azure.png)
 
 ---
 
@@ -32,7 +32,7 @@ O **planejamento de releases** envolve três passos principais:
 
 🔹 **Objetivo**: Criar um roadmap para definir as entregas e marcos do projeto.
 
-![Planejamento de Releases](gestao_de_projetos/release_planning.png)
+![Planejamento de Releases](imagens/release_planning.png)
 
 ---
 
@@ -51,7 +51,7 @@ Cada sprint passa por um **processo de planejamento**:
 - O **sprint backlog** é atualizado conforme o progresso das tarefas.
 - O **time deve se alinhar diariamente** (Daily Scrum).
 
-![Planejamento de Sprint](gestao_de_projetos/sprint_planning.png)
+![Planejamento de Sprint](imagens/sprint_planning.png)
 
 ---
 
@@ -66,7 +66,7 @@ Cada sprint passa por um **processo de planejamento**:
 ✔️ **Acompanhar o gráfico diariamente** 📊  
 ✔️ **Adaptar planejamento conforme necessário** 🔄  
 
-![Burndown Chart](gestao_de_projetos/burndown_chart.png)
+![Burndown Chart](imagens/burndown_chart.png)
 
 ---
 
@@ -83,7 +83,7 @@ Cada sprint passa por um **processo de planejamento**:
 ✔️ Permite **identificar gargalos** no fluxo de trabalho 🔍  
 ✔️ Ajuda no **acompanhamento da sprint** em tempo real ⏳  
 
-![Kanban Board](gestao_de_projetos/kanban_board_azure.png)
+![Kanban Board](imagens/kanban_board_azure.png)
 
 ---
 
@@ -100,5 +100,3 @@ Cada sprint passa por um **processo de planejamento**:
 
 ---
 
-🔹 **Dica Extra**:  
-Se quiser organizar melhor suas tarefas no **Azure DevOps**, combine o uso do **Scrum** (para planejamento) e **Kanban** (para execução). 🚀

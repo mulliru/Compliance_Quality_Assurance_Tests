@@ -18,7 +18,7 @@ Este documento contém um resumo dos principais conceitos abordados na **Aula 02
 - **Tradicional**: PMBOK (estruturado).
 - **Ágil**: SCRUM, Kanban, XP.
 
-![Kanban Board](gestao_de_projetos/kanban_board.png)
+![Kanban Board](imagens/kanban_board.png)
 
 ---
 
@@ -30,7 +30,7 @@ Este documento contém um resumo dos principais conceitos abordados na **Aula 02
   - **Scrum Master (SM)**: Facilita o processo.
   - **Desenvolvedores**: Implementam as soluções.
 
-![Fluxo Scrum](gestao_de_projetos/fluxo_scrum.png)
+![Fluxo Scrum](imagens/fluxo_scrum.png)
 
 ### 📌 Eventos do Scrum
 - **Sprint**: Período de trabalho (1-4 semanas).
@@ -39,7 +39,7 @@ Este documento contém um resumo dos principais conceitos abordados na **Aula 02
 - **Sprint Review**: Demonstração do trabalho concluído.
 - **Sprint Retrospective**: Avaliação do processo.
 
-![Eventos Scrum](gestao_de_projetos/eventos_scrum.png)
+![Eventos Scrum](imagens/eventos_scrum.png)
 
 ### 📌 Artefatos do Scrum
 | Artefato | O que é? |
@@ -62,13 +62,13 @@ Este documento contém um resumo dos principais conceitos abordados na **Aula 02
 | **Burndown Chart** | Progresso da sprint |
 | **Burnup Chart** | Evolução do projeto |
 
-![Burndown & Burnup Charts](gestao_de_projetos/burncharts.png)
+![Burndown & Burnup Charts](imagens/burncharts.png)
 
 ### 📌 Gestão de Requisitos e Casos de Uso
 - **Formaliza o que o usuário pode ou não fazer.**
 - **Definição clara das expectativas dos stakeholders.**
 
-![Diagrama de Caso de Uso](gestao_de_projetos/diagrama_caso_uso.png)
+![Diagrama de Caso de Uso](imagens/diagrama_caso_uso.png)
 
 ---
 
